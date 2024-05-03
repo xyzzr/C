@@ -3,7 +3,7 @@
       "firesignal": {
           "label": "firesignal(Signal, Args);",
           "type": "Method",
-          "description": "Fires all the connections connected to the signal Signal with Args.",
+          "description": "WHALE IS A FAGGOT!",
           "insert": "firesignal"
       },
       "getsenv": {
