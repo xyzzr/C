@@ -1,9 +1,10 @@
-- Patching detection  ✅
-- Removing bloat from Solara folder ✅
-- Fixing CPU usage  🟨
-- Big bug fixes ✅
-- More UNC  🟨
-- Boostrapper ✅
-- More security from bad actors ✅
+*(last updated 5/19/2024 11:31PM)*
+- Patching detection  🟩
+- Removing bloat from Solara folder 🟩
+- Fixing CPU usage  🟥
+- Big bug fixes 🟩
+- More UNC  🟥
+- Boostrapper 🟩
+- More security from bad actors 🟩
 
-- Online: 🟨
+- Online: 🟥
