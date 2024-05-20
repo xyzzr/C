@@ -7,4 +7,4 @@
 - Boostrapper 🟩
 - More security from bad actors 🟩
 
-- Online: 🟥
+- Online: 🟩 [BETA]
